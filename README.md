@@ -4,28 +4,6 @@ This repository includes files ruby code on Enumerable and 3 related methods any
 
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -54,15 +32,11 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Enumerable] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Enumerable]** In this project, we utilize the Ruby language to write a class List and module enumerable.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> This project is built with Ruby see info below:
 
 <details>
 <summary>RUBY</summary>
@@ -75,8 +49,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> The following are the key features of the Project.
-
 - **[The project implements #all]**
 - **[The project implements #any ]**
 - **[The project implements #filter ]**
@@ -86,8 +58,6 @@ After you're finished please remove all the comments and instructions!
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Follow below to get started with the project.
 
 To get a local copy up and running, follow these steps.
 
@@ -171,8 +141,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Authors are below.
-
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/mudasiri)
@@ -190,8 +158,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Building_a_GUI_version]**
 - [ ] **[new_feature_2]**
